@@ -1,0 +1,11 @@
+# Ignora o arquivo com as senhas reais
+db_config.json
+
+# Ignora pastas de ambiente virtual e cache do Python
+__pycache__/
+venv/
+env/
+.env
+
+# Ignora os arquivos CSV pesados (opcional, mas recomendado)
+*.csv
